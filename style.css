@@ -8,7 +8,6 @@
 .container {
   max-width: 1240px;
   margin: 0 auto;
-  border: 1px solid red;
 }
 .logo {
   display: flex;
@@ -53,7 +52,6 @@
 }
 .mini_box {
   width: 255px;
-  border: 1px solid blue;
 }
 .mini_box .heading {
   color: #162542;
